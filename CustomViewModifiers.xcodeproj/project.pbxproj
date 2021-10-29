@@ -14,6 +14,7 @@
 		60E01DBE272C843500981B28 /* Watermark.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60E01DBD272C843500981B28 /* Watermark.swift */; };
 		60E01DC0272C84B800981B28 /* BlueButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60E01DBF272C84B800981B28 /* BlueButton.swift */; };
 		60E01DC4272C8DD700981B28 /* DestinationCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60E01DC3272C8DD700981B28 /* DestinationCard.swift */; };
+		60E01DC6272C8E6F00981B28 /* ViewSection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60E01DC5272C8E6F00981B28 /* ViewSection.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		60E01DBD272C843500981B28 /* Watermark.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Watermark.swift; sourceTree = "<group>"; };
 		60E01DBF272C84B800981B28 /* BlueButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlueButton.swift; sourceTree = "<group>"; };
 		60E01DC3272C8DD700981B28 /* DestinationCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DestinationCard.swift; sourceTree = "<group>"; };
+		60E01DC5272C8E6F00981B28 /* ViewSection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewSection.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				60E01DB5272C7ECB00981B28 /* Preview Content */,
 				60E01DBD272C843500981B28 /* Watermark.swift */,
 				60E01DBF272C84B800981B28 /* BlueButton.swift */,
+				60E01DC5272C8E6F00981B28 /* ViewSection.swift */,
 			);
 			path = CustomViewModifiers;
 			sourceTree = "<group>";
@@ -150,6 +153,7 @@
 				60E01DB2272C7ECA00981B28 /* ContentView.swift in Sources */,
 				60E01DB0272C7ECA00981B28 /* CustomViewModifiersApp.swift in Sources */,
 				60E01DBE272C843500981B28 /* Watermark.swift in Sources */,
+				60E01DC6272C8E6F00981B28 /* ViewSection.swift in Sources */,
 				60E01DC0272C84B800981B28 /* BlueButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

@@ -11,26 +11,26 @@ struct ContentView: View {
     
     var body: some View {
         ZStack {
-            Color.gray
+            Color.white
                 .ignoresSafeArea()
-                .watermark("Matt Sousa")
             
             VStack {
                 Text("Hello, world!")
-                    .blueButtonStyle()
                     .padding()
-                    .watermark("Hello World!",
-                               color: .red)
+                    .blueButtonStyle()
+                    .watermark("Hello, World", color: .orange)
                 
                 
-                Image(systemName: "globe")
+                Image(systemName: "person.fill")
                     .resizable()
                     .frame(width: 100,
                            height: 100,
                            alignment: .center)
                     .blueButtonStyle()
-                    .watermark("Globe",
-                               color: .green)
+                    .watermark("Person", color: .red)
+                    
+                    
+   
                 
             }
             

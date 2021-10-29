@@ -13,6 +13,7 @@
 		60E01DB7272C7ECB00981B28 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 60E01DB6272C7ECB00981B28 /* Preview Assets.xcassets */; };
 		60E01DBE272C843500981B28 /* Watermark.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60E01DBD272C843500981B28 /* Watermark.swift */; };
 		60E01DC0272C84B800981B28 /* BlueButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60E01DBF272C84B800981B28 /* BlueButton.swift */; };
+		60E01DC4272C8DD700981B28 /* DestinationCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60E01DC3272C8DD700981B28 /* DestinationCard.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		60E01DB6272C7ECB00981B28 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		60E01DBD272C843500981B28 /* Watermark.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Watermark.swift; sourceTree = "<group>"; };
 		60E01DBF272C84B800981B28 /* BlueButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlueButton.swift; sourceTree = "<group>"; };
+		60E01DC3272C8DD700981B28 /* DestinationCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DestinationCard.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 		60E01DAE272C7ECA00981B28 /* CustomViewModifiers */ = {
 			isa = PBXGroup;
 			children = (
+				60E01DC3272C8DD700981B28 /* DestinationCard.swift */,
 				60E01DAF272C7ECA00981B28 /* CustomViewModifiersApp.swift */,
 				60E01DB1272C7ECA00981B28 /* ContentView.swift */,
 				60E01DB3272C7ECB00981B28 /* Assets.xcassets */,
@@ -143,6 +146,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				60E01DC4272C8DD700981B28 /* DestinationCard.swift in Sources */,
 				60E01DB2272C7ECA00981B28 /* ContentView.swift in Sources */,
 				60E01DB0272C7ECA00981B28 /* CustomViewModifiersApp.swift in Sources */,
 				60E01DBE272C843500981B28 /* Watermark.swift in Sources */,
